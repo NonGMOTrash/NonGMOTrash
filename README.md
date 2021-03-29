@@ -8,7 +8,7 @@ email: nongmotrash@gmail.com
 discord: NonGMOTrash#9437   
 i'll probably also make a youtube channel at some point
 
-
+![me irl](https://github.com/NonGMOTrash/NonGMOTrash/blob/dd9abdcb7c4850d19d97d87105768ddc03286383/profile%20mini.jpg)
 
 
 <!---
