@@ -4,7 +4,7 @@ and i like the godot engine
 i'm not really smart enough to contribute to any open source projects   
 
 itch: [nongmotrash.itch.io](https://https://nongmotrash.itch.io/ "click me pls")    
-youtube: [https://www.youtube.com/channel/UCeM_Vg53GAkVPdgEmPfPAsw/featured](https://www.youtube.com/channel/UCeM_Vg53GAkVPdgEmPfPAsw/featured)
+youtube: [https://www.youtube.com/channel/UCeM_Vg53GAkVPdgEmPfPAsw/featured](https://www.youtube.com/channel/UCeM_Vg53GAkVPdgEmPfPAsw/featured)     
 email: nongmotrash@gmail.com    
 discord: NonGMOTrash#9437   
 
