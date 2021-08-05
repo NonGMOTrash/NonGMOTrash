@@ -1,6 +1,5 @@
 hello  
 i make ~~bad~~ okay games   
-and i like the godot engine   
 i'm not really smart enough to contribute to any open source projects   
 
 itch: [nongmotrash.itch.io](https://nongmotrash.itch.io/ "click me pls")    
@@ -9,10 +8,8 @@ email: nongmotrash@gmail.com
 discord: NonGMOTrash#9437   
 newgrounds: [nongmotrash.newgrounds.com](https://nongmotrash.newgrounds.com/ "click me pls")
 
-![me irl](https://github.com/NonGMOTrash/NonGMOTrash/blob/dd9abdcb7c4850d19d97d87105768ddc03286383/profile%20mini.jpg)
+### my latest creation
 
-
-<!---
-NonGMOTrash/NonGMOTrash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![sky high](https://user-images.githubusercontent.com/76577242/128414394-17448ab4-3aeb-4960-8f96-d3631eeaab93.png)    
+*fly with a ballon gun lmao*    
+https://www.newgrounds.com/portal/view/801754
