@@ -1,6 +1,6 @@
 hello  
 i make ~~bad~~ okay games   
-i'm not really smart enough to contribute to any open source projects   
+i'm not really smart enough yet to contribute to any open source projects   
 
 itch: [nongmotrash.itch.io](https://nongmotrash.itch.io/ "click me pls")    
 youtube: [https://www.youtube.com/channel/UCeM_Vg53GAkVPdgEmPfPAsw/featured](https://www.youtube.com/channel/UCeM_Vg53GAkVPdgEmPfPAsw/featured)     
@@ -10,6 +10,6 @@ newgrounds: [nongmotrash.newgrounds.com](https://nongmotrash.newgrounds.com/ "cl
 
 ### my latest creation
 
-![teralite](https://imgur.com/9ACNgrH)    
+![teralite](https://imgur.com/9ACNgrH.png)    
 *a top down action packed mashup of whatever i feel like*    
 https://nongmotrash.itch.io/teralite
