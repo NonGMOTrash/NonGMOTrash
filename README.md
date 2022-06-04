@@ -10,6 +10,6 @@ newgrounds: [nongmotrash.newgrounds.com](https://nongmotrash.newgrounds.com/ "cl
 
 ### my latest creation
 
-![sky high](https://user-images.githubusercontent.com/76577242/128414394-17448ab4-3aeb-4960-8f96-d3631eeaab93.png)    
-*fly with a ballon gun lmao*    
-https://www.newgrounds.com/portal/view/801754
+![teralite](https://imgur.com/9ACNgrH)    
+*a top down action packed mashup of whatever i feel like*    
+https://nongmotrash.itch.io/teralite
