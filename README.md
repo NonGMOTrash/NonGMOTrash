@@ -1,2 +1,2 @@
 # hi /ᐠ - ˕ -マ
-you should check out [my website](https://nongmotrash.github.io/)
+you should check out [my website](https://nongmotrash.net/)
