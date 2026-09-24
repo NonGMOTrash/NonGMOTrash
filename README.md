@@ -1,2 +1,1 @@
-# hi /ᐠ - ˕ -マ
-you should check out [my website](https://nongmotrash.net/)
+I program for fun... is that understandable??
