@@ -1,1 +1,1 @@
-I program for fun... is that understandable??
+joy driven development
